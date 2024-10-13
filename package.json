@@ -1,10 +1,10 @@
 {
-  "name": "node",
+  "name": "Hello-Node",
   "version": "1.0.0",
   "description": "Node.js Server",
   "main": "index.js",
   "author": "",
-  "repository": "",
+  "repository": "rawlin",
   "license": "MIT",
   "private": false,
   "scripts": {
