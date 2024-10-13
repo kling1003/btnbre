@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Node.js Server",
   "main": "index.js",
-  "author": "",
-  "repository": "rawlin",
+  "author": "rawlin",
+  "repository": "",
   "license": "MIT",
   "private": false,
   "scripts": {
